@@ -1,5 +1,5 @@
 # Alan Seçim Anketi
-
+ 
 İlk geliştirmiş olduğum programlardan biri lise projesi olarak tasarlandı.
 Hakkında kısmı güncel değil kusura bakmayın.
 Bazı amatör hataları mevcut lütfen mazur görün. 
